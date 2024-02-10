@@ -1,4 +1,5 @@
 PTI Votes: 1256587469
+<<<<<<< HEAD
 Total seats won in National Assembly: 205/336
 Total seats won in Provincial Assembly: 200/371
 =======
@@ -7,5 +8,9 @@ Total seats won in Provincial Assembly: 200/371
 Total seats won in National Assembly: 203/336
 Total seats won in Provincial Assembly: 198/371
  branch/PTI
+=======
+Total seats won in National Assembly: 201/336
+Total seats won in Provincial Assembly: 198/371
+>>>>>>> parent of 5133486 (4 seats increased in NA and 3 in Pv Ass)
 
 
